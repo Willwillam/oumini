@@ -1,0 +1,367 @@
+# oumini
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0, width=device-width">
+    <meta name="keywords" content="渠道分销平台,分销商城,分销系统,微分销,B2B2C,全渠道零售商城,B2C商城,移动商城,ERP,企业资源管理系统,OMS,订单管理系统,WMS,仓储管理系统,仓库管理系统,转运系统,TMS,电商运营,营销策略,市场推广,一件代发,海外转运,直邮,海淘,海外仓,自营渠道,BBC,BC,跨境电商,清关,保税仓,解决方案,一站式,供应链,全渠道">
+    <meta name="description" content="欧米尼科技有限公司专注于跨境电子商务解决方案,立志成为行业领先的电商系统软件提供商及供应链服务商。基于成熟的技术团队,欧米尼先后开发了OmiChannel,OmiStore,OmiERP,OmiOMS,OmiWMS,OmiTrans等覆盖全渠道多环节的电商系统产品。并为客户提供了仓储物流服务、商城运营、平台运营等定制服务。丰富的行业经验和技术积累,欧米尼为客户定制提供最专业而高效的电商解决方案。">
+    <title>欧米尼科技</title>
+    <link type="text/css" rel="stylesheet" href="./css/main.css">
+    <link type="text/css" rel="stylesheet" href="../lib/swiper/swiper.min.css">
+    <link type="text/css" rel="stylesheet" href="./css/font/iconfont.css">
+</head>
+<body>
+<header class="home-header">
+    <a href="./index.html"><img src="../img/logo.png"></a>
+    <div class="home-hamburger">
+        <i class="icon-hamburger iconfont"></i>
+    </div>
+
+    <div class="home-header-menu ease-out-height">
+        <div class="home-header-menu-item home-header-menu-software-solutions">
+            <p class="home-header-menu-item-title">软件方案<i class="iconfont icon-productdownarror home-header-menu-arror just-center-y ease-out-transform"></i></p>
+            <div class="home-header-menu-item-down ease-out">
+                <a href="./omichannel.html"><p class="home-header-menu-item-subtitle" index="0">渠道分销平台</p></a>
+                <a href="./omistore.html"><p class="home-header-menu-item-subtitle" index="1">全渠道零售商城</p></a>
+                <a href="./omierp.html"><p class="home-header-menu-item-subtitle" index="2">ERP</p></a>
+                <a href="./omioms.html"><p class="home-header-menu-item-subtitle" index="3">OMS</p></a>
+                <a href="./omiwms.html"><p class="home-header-menu-item-subtitle" index="4">WMS</p></a>
+                <a href="./omitrans.html"><p class="home-header-menu-item-subtitle" index="5">海外转运系统</p></a>
+            </div>
+        </div>
+
+        <div class="home-header-menu-item">
+            <p class="home-header-menu-item-title">运营服务<i class="iconfont icon-productdownarror home-header-menu-arror just-center-y ease-out-transform"></i></p>
+            <div class="home-header-menu-item-down ease-out">
+                <a href="./multimedia-promotion.html"><p class="home-header-menu-item-subtitle" item-actived-name="operation-service-one">市场推广</p></a>
+                <a href="./channel-distribution.html"><p class="home-header-menu-item-subtitle" item-actived-name="operation-service-two">自营渠道推广</p></a>
+                <a href="./online-store-operation.html"><p class="home-header-menu-item-subtitle" item-actived-name="operation-service-three">商城代运营</p></a>
+            </div>
+        </div>
+
+        <div class="home-header-menu-item">
+            <a href="./warehouse-logistics.html"><p class="home-header-menu-item-title" item-actived-name="warehouse-logistics">仓储物流</p></a>
+        </div>
+
+        <div class="home-header-menu-item">
+            <p class="home-header-menu-item-title" item-actived-name="successful-case">成功案例</p>
+        </div>
+
+    </div>
+</header>
+
+
+<div class="home-title-background">
+    <div class="home-title just-center-xy">
+        <p>跨境电商 <span></span> 全渠道</p>
+        <p>整合解决方案</p>
+    </div>
+</div>
+
+<div class="home-about-us page-gap-x zone-background-color zone-gap-over">
+    <p class="home-about-us-title home-zone-title">关于我们</p>
+    <p class="home-about-us-paragraph-bottom">近年来，随着跨境电子商务火热进行中，欧米尼为了帮助客户解决电商问题应运而生，在这里, 欧米尼可以为您提供一站式电商解决方案，自2014年跨境电商开始萌芽，欧米尼后端系统对接杭州电子口岸，帮助跨境电商企业“四单合一”自动申报，成为首批在杭州保税区发货的电商企业。</p>
+    <p class="home-about-us-paragraph-bottom">我们有自己的保税仓，海外仓，自主研发的后端管理系统，能帮助电商企业解决仓储物流问题。我们还有自己的转运系统，如果您有海淘和代购的需求，我们同样可以以低运费成本和高时效的模式帮您解决一站式集货、打包、托运、清关、国内落地配送，并支持全程物流信息查询，保障您的货品安全，提供专业的客服服务，让您安心海淘。</p>
+    <p>同时，欧米尼也有自己的分销商城，完美实现进口商品B2B2C模式，不管您是批发还是零售，在欧米尼的分销商城总可以找到您的解决方案。我们确保所有货源正品，并可提供报关报检单，支持保税仓，海外仓一件代发模式。</p>
+</div>
+
+<div class="home-software-solutions zone-background-color zone-gap-over" data-get-class="software-solutions">
+    <p class="home-software-solutions-title home-zone-title">软件方案</p>
+    <!-- Swiper -->
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <a href="./omichannel.html">
+                    <div class="home-software-solutions-item-left home-software-solutions-item">
+                        <img src="../img/o2.jpg">
+                        <div class="home-software-solutions-item-gap">
+                            <p class="home-software-solutions-item-subtitle">OmiChannel</p>
+                            <p class="home-software-solutions-item-title">渠道分销平台</p>
+                            <p class="home-software-solutions-item-description">渠道分销平台针对跨境电商贸易型企业，提供针对完税、保税、直邮商品的渠道批发、一件代发系统支持</p>
+                        </div>
+
+                    </div>
+                </a>
+
+                <a href="./omistore.html">
+                    <div class="home-software-solutions-item-right home-software-solutions-item">
+                        <img src="../img/o1.jpg">
+                        <div class="home-software-solutions-item-gap">
+                            <p class="home-software-solutions-item-subtitle">OmiStore</p>
+                            <p class="home-software-solutions-item-title">全渠道零售商城</p>
+                            <p class="home-software-solutions-item-description">全渠道零售商城是一个支持多渠道展示的电商零售系统套件。根据客户需求，欧米尼提供PC商城...</p>
+                        </div>
+
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="swiper-slide">
+                <a href="./omierp.html">
+                    <div class="home-software-solutions-item-left home-software-solutions-item">
+                        <img src="../img/o3.jpg">
+                        <div class="home-software-solutions-item-gap">
+                            <p class="home-software-solutions-item-subtitle">OmiERP</p>
+                            <p class="home-software-solutions-item-title">企业资源管理系统</p>
+                            <p class="home-software-solutions-item-description">把传统ERP中的采购、生产、销售、库存管理等物流及资金流模块与电子商务中的网上采购、网上销售、资金支付...</p>
+                        </div>
+
+                    </div>
+                </a>
+
+                <a href="./omioms.html">
+                    <div class="home-software-solutions-item-right home-software-solutions-item">
+                        <img src="../img/o5.jpg">
+                        <div class="home-software-solutions-item-gap">
+                            <p class="home-software-solutions-item-subtitle">OmiOMS</p>
+                            <p class="home-software-solutions-item-title">订单管理系统</p>
+                            <p class="home-software-solutions-item-description">订单管理系统是欧米尼物流管理系统的一部分，通过对客户下达的订单进行管理及跟踪...</p>
+                        </div>
+
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="swiper-slide">
+                <a href="./omiwms.html">
+                    <div class="home-software-solutions-item-left home-software-solutions-item">
+                        <img src="../img/o6.jpg">
+                        <div class="home-software-solutions-item-gap">
+                            <p class="home-software-solutions-item-subtitle">OmiWMS</p>
+                            <p class="home-software-solutions-item-title">仓库管理系统</p>
+                            <p class="home-software-solutions-item-description">仓库管理系统通过入库业务、出库业务、仓库调拨、库存调拨和虚仓管理等功能...</p>
+                        </div>
+
+                    </div>
+                </a>
+
+                <a href="./omitrans.html">
+                    <div class="home-software-solutions-item-right home-software-solutions-item">
+                        <img src="../img/o7.jpg">
+                        <div class="home-software-solutions-item-gap">
+                            <p class="home-software-solutions-item-subtitle">OmiTrans</p>
+                            <p class="home-software-solutions-item-title">海外转运系统</p>
+                            <p class="home-software-solutions-item-description">海外转运系统统整合境外仓库、干线运输、口岸清关和国内派送等资源为广大跨境电商零售卖家和海淘...</p>
+                        </div>
+
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- Add Scrollbar -->
+        <div class="swiper-pagination"></div>
+    </div>
+</div>
+
+<div class="home-operation-service zone-background-color">
+    <p class="home-zone-title home-operation-service-title">运营服务</p>
+
+    <a href="./multimedia-promotion.html">
+        <div class="home-operation-service-item page-gap-x" data-get-class="operation-service-one">
+            <img class="home-operation-service-item-img" src="../img/y1.jpg">
+            <div class="home-operation-service-item-description">
+                <p>市场推广</p>
+                <p>整合PC、移动资源，帮客户引入流量，提高行业知名度；运用SEO，帮助客户提高被检索精准率；与时俱进，使用自媒体和新媒体手段，帮助客户实现目标</p>
+            </div>
+        </div>
+    </a>
+
+    <div class="home-operation-service-item-line"></div>
+
+    <a href="./channel-distribution.html">
+        <div class="home-operation-service-item page-gap-x" data-get-class="operation-service-two">
+            <div class="home-operation-service-item-description">
+                <p>自营渠道分销（BB/BBC）</p>
+                <p>欧米尼平台拥有大量优质供应商，进口商品确保直采自原产国，更加优质的价格，更加充足的货源。电商卖家，可在欧米尼上选购批发或一件代发的商品。</p>
+            </div>
+            <img class="home-operation-service-item-img" src="../img/y3.jpg">
+        </div>
+    </a>
+
+    <div class="home-operation-service-item-line"></div>
+
+    <a href="./online-store-operation.html">
+        <div class="home-operation-service-item page-gap-x" data-get-class="operation-service-three">
+            <img class="home-operation-service-item-img" src="../img/y4.jpg">
+            <div class="home-operation-service-item-description">
+                <p>商城代运营</p>
+                <p>欧米尼的运营团队，熟悉各类进口商品，精通商城运营、内容运营等操作技巧，致力为企业提供更省心、省钱、省力的一站式服务。</p>
+            </div>
+        </div>
+    </a>
+
+</div>
+
+<div class="home-warehouse-logistics" data-get-class="warehouse-logistics" style="text-align: center;">
+    <p class="home-zone-title home-warehouse-logistics-title">仓储物流</p>
+    <div class="home-warehouse-logistics-contain page-gap-x">
+        <div class="home-warehouse-logistics-item">
+            <p class="home-warehouse-logistics-item-img"><img src="../img/touch.png"></p>
+            <p class="home-warehouse-logistics-item-title">一件代发服务</p>
+            <p class="home-warehouse-logistics-item-description line-eplis4">各种品类进口商品，欧米尼分销平台应有尽有，支持微信，支付宝，银联等付款方式，可以批量采购，也可一件代发，让您专注货品销售，不愁货源和物流</p>
+        </div>
+
+        <div class="home-warehouse-logistics-item">
+            <p class="home-warehouse-logistics-item-img"><img src="../img/house.png"></p>
+            <p class="home-warehouse-logistics-item-title">海外仓 保税仓</p>
+            <p class="home-warehouse-logistics-item-description line-eplis4">欧米尼在德国，法国，新西兰，澳洲，日本，香港等多个地区设有海外仓</p>
+        </div>
+
+        <div class="home-warehouse-logistics-item">
+            <p class="home-warehouse-logistics-item-img"><img src="../img/airplane.png"></p>
+            <p class="home-warehouse-logistics-item-title">全球转运直邮</p>
+            <p class="home-warehouse-logistics-item-description line-eplis4">在德国，法国，新西兰等多个国家设有货站，支持包裹揽收转运，全程物流一单到底，让你足不出户轻松海淘，更低的运费，更高的效率，更好的服务尽在欧米尼海外转运中心</p>
+        </div>
+    </div>
+    <a href="./warehouse-logistics.html" style="display: inline-block"><button>了解详情</button></a>
+</div>
+
+<!--<div class="home-successful-case zone-background-color page-gap-x" data-get-class="successful-case">-->
+    <!--<p class="home-zone-title home-successful-case-title">成功案例</p>-->
+
+    <!--<img src="../img/vsa.jpg">-->
+    <!--<p class="home-successful-case-description-title">采世界供应链</p>-->
+    <!--<p class="home-successful-case-description">采世界是一个聚集众多海外知名品牌的全球供应链服务平台，立足于自营跨境保税仓，同时联合海外供应商成立日韩德澳新各区直邮仓，一站式为国内卖家提供海外正品货源采购...</p>-->
+
+    <!--<img src="../img/vd.jpg">-->
+    <!--<p class="home-successful-case-description-title">游购会</p>-->
+    <!--<p class="home-successful-case-description">游购会是一个通过导游分销联盟，面向出境游客做针对性营销的跨境电商平台。针对游购会独特的商业模式和线下渠道优势资源，欧米尼为其定制开发创新的“机构分销”二级分销商城系统</p>-->
+
+    <!--<img src="../img/vvv.jpg">-->
+    <!--<p class="home-successful-case-description-title">四洲购</p>-->
+    <!--<p class="home-successful-case-description">四洲购是香港四洲集团旗下的电商子公司，四洲集团是香港最大食品企业之一, 汇聚全球海量优质食品，30多个国家5000多种品类，拥有集食品科研、技术开发、工厂矩阵、采购网络</p>-->
+
+<!--</div>-->
+
+<div class="home-successful-case zone-background-color">
+    <p class="home-software-solutions-title home-zone-title">成功案例</p>
+    <!-- Swiper -->
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <div class="home-software-solutions-item-left home-software-solutions-item">
+                    <img src="../img/vsa.jpg">
+                    <div class="home-software-solutions-item-gap">
+                        <p class="home-software-solutions-item-title">采世界供应链</p>
+                        <p class="home-software-solutions-item-description">采世界是一个聚集众多海外知名品牌的全球供应链服务平台，立足于自营跨境保税仓，同时联合海外供应商成立日韩德澳新各区直邮仓，一站式为国内卖家提供海外正品货源采购...</p>
+                    </div>
+
+                </div>
+
+                <div class="home-software-solutions-item-right home-software-solutions-item">
+                    <img src="../img/vd.jpg">
+                    <div class="home-software-solutions-item-gap">
+                        <p class="home-software-solutions-item-title">游购会</p>
+                        <p class="home-software-solutions-item-description">游购会是一个通过导游分销联盟，面向出境游客做针对性营销的跨境电商平台。针对游购会独特的商业模式和线下渠道优势资源，欧米尼为其定制开发创新的“机构分销”二级分销商城系统</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="swiper-slide">
+                <div class="home-software-solutions-item-left home-software-solutions-item">
+                    <img src="../img/vvv.jpg">
+                    <div class="home-software-solutions-item-gap">
+                        <p class="home-software-solutions-item-title">四洲购</p>
+                        <p class="home-software-solutions-item-description">四洲购是香港四洲集团旗下的电商子公司，四洲集团是香港最大食品企业之一, 汇聚全球海量优质食品，30多个国家5000多种品类，拥有集食品科研、技术开发、工厂矩阵、采购网络</p>
+                    </div>
+
+                </div>
+
+                <div class="home-software-solutions-item-right home-software-solutions-item">
+                    <img src="../img/xianlife.jpg">
+                    <div class="home-software-solutions-item-gap">
+                        <p class="home-software-solutions-item-title">鲜生活</p>
+                        <p class="home-software-solutions-item-description">国内首家深耕进口食品垂直类跨境电商平台“鲜LIFE(鲜生活)”从网站到后端系统服务，以及物流仓储均使用欧米尼的服务，已成功在杭州电子口岸出货达100万单，已经在跨境电商界具备一定影响力，引导全球消费理念，改变我们的生活方式</p>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <div class="home-software-solutions-item-left home-software-solutions-item">
+                    <img src="../img/zmkm.jpg">
+                    <div class="home-software-solutions-item-gap">
+                        <p class="home-software-solutions-item-title">芝麻开门</p>
+                        <p class="home-software-solutions-item-description">芝麻开门是一家集线上线下购物为一体的全新电商模式，利用社区营销渗入到湖南地区各大小区的便利店和跨境电商体验店，用户可直接在店面购买商品，也可直接扫码在网上消费购买，完美实现线下对线上的营销模式，目前营业至今已产生1000多万销售额。</p>
+                    </div>
+
+                </div>
+
+                <!-- <div class="home-software-solutions-item-right home-software-solutions-item">
+                    <img src="../img/o7.jpg">
+                    <div class="home-software-solutions-item-gap">
+                        <p class="home-software-solutions-item-subtitle">OmiTrans</p>
+                        <p class="home-software-solutions-item-title">海外转运系统</p>
+                        <p class="home-software-solutions-item-description">海外转运系统统整合境外仓库、干线运输、口岸清关和国内派送等资源为广大跨境电商零售卖家和海淘...</p>
+                    </div>
+
+                </div> -->
+            </div>
+        </div>
+        <!-- Add Scrollbar -->
+        <div class="swiper-pagination"></div>
+    </div>
+</div>
+
+<footer class="home-footer zone-background-color">
+    <div class="home-footer-tab">
+        <a class="just-center-xy" href="./index.html">
+            <i class="icon-home icon-style iconfont" style="font-size: 26px;line-height: 20px;"></i>
+            <span>首页</span>
+        </a>
+    </div>
+
+    <div class="home-footer-tab">
+        <a class="just-center-xy">
+            <i class="icon-qq icon-style iconfont"></i>
+            <span>QQ咨询</span>
+        </a>
+    </div>
+
+    <div class="home-footer-tab">
+        <a class="just-center-xy">
+            <i class="icon-sss01 iconfont icon-style"></i>
+            <span>在线咨询</span>
+        </a>
+    </div>
+
+    <div class="home-footer-tab">
+        <a class="just-center-xy" href="./contact-us.html">
+            <i class="icon-location iconfont icon-style"></i>
+            <span>联系我们</span>
+        </a>
+    </div>
+</footer>
+
+<script>
+  (function (doc, win) {
+    var docEl = doc.documentElement,
+      resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+      recalc = function () {
+        var clientWidth = docEl.clientWidth;
+        if (!clientWidth) return;
+        if(clientWidth>640) {
+          docEl.style.fontSize = '100px'
+          return
+        }
+        docEl.style.fontSize = 100 * (clientWidth / 640) + 'px';
+      };
+
+    if (!doc.addEventListener) return;
+    win.addEventListener(resizeEvt, recalc, false);
+    doc.addEventListener('DOMContentLoaded', recalc, false);
+  })(document, window);
+</script>
+</body>
+
+<script type="text/javascript" src="../lib/zepto/zepto.min.js"></script>
+<script type="text/javascript" src="../lib/swiper/swiper.min.js"></script>
+<script type="text/javascript" src="./js/main.js"></script>
+</html>
